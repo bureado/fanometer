@@ -1,0 +1,15 @@
+{
+  "name": "NodeWSRelay",
+  "version": "0.0.0",
+  "description": "NodeWSRelay",
+  "main": "app.js",
+  "author": {
+    "name": "SyntaxC4",
+    "email": ""
+  },
+  "dependencies": {
+	"ws": "*",
+	"commander": "*",
+	"azure": "*"
+  }
+}
